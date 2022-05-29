@@ -11,7 +11,7 @@ export class Tab1Page implements OnInit{
 
   ngOnInit() {
     let numero =10;
-    debugger;
+    //debugger;
 
     numero =20;
 
